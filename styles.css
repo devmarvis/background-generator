@@ -1,0 +1,21 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+
+html {
+    font-size: 10px;
+}
+
+body {
+    text-align: center;
+    padding: 4.2em;
+}
+
+
+h1 {
+    color: red;
+    font-size: 4em;
+}
